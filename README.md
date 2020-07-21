@@ -1,2 +1,2 @@
 # The-Bright-and-the-Dark-Sides-of-Patents
-Data and Codes for the paper "The Bright and the Dark Sides of Patents - Experimental Evidence"
+Data and Codes used in the paper "The Bright and the Dark Sides of Patents - Experimental Evidence"
