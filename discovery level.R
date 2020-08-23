@@ -7,9 +7,7 @@ discoveryLevel <- data.table(id   = character(N),
                        Finder=numeric(N),
                        Ngame= numeric(N),
                        Ngroup = numeric(N))
-#PNP.a <- rbind(PNP,X307982637_1_)
-#table(X307982637_1_$Hive)
-#PNP.a <- as.data.table(subset(PNP.a,ID > 0))
+
 
 #sign the corner discoveries
 discoveryLevel$Corner <- ifelse(grepl("\\(0-",discoveryLevel$ID)|
