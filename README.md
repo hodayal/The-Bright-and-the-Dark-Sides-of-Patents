@@ -1,2 +1,2 @@
-# The-Bright-and-the-Dark-Sides-of-Patents
-Data and Codes used in the paper "The Bright and the Dark Sides of Patents - Experimental Evidence"
+# The Effect of Protecting Initial Discoveries on Exploration
+Data and Codes used in the paper "The Effect of Protecting Initial Discoveries on Exploration"
